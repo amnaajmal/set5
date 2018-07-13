@@ -1,3 +1,5 @@
-for (var numb =2; numb <99; numb +=2){
-	console.log(numb);
+for (let numb =0; numb <=99; numb ++){
+	if(numb %2===0){
+		console.log(numb)
+	}
 }
