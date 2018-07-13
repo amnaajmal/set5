@@ -1,3 +1,3 @@
-for (var numb =0; numb <100; numb +=3){
-	console.log(numb);
+for (let numb =1; numb <=100; numb ++){
+	console.log(numb*numb*numb);
 }
